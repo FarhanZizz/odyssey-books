@@ -4,6 +4,8 @@ A curated book marketplace with a dark editorial aesthetic. Browse rare titles, 
 
 ![Odyssey Books](https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=400&fit=crop)
 
+**Live Demo:** [odyssey-books.vercel.app](https://odyssey-books.vercel.app) &nbsp;|&nbsp; **Repo:** [github.com/FarhanZizz/odyssey-books](https://github.com/FarhanZizz/odyssey-books)
+
 ---
 
 ## Features
